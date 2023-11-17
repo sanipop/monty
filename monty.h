@@ -7,6 +7,7 @@
 #include <fcntl.h>
 #include <string.h>
 #include <ctype.h>
+#include <errno.h>
 /**
  * struct stack_s - a structure of a doubled linked list
  * @n: the value passed to the  linked list

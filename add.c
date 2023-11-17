@@ -3,7 +3,7 @@
  * asanif_add - Function to add element to stack.
  * @head: the entry point of the stack
  * @counter: an index of the list
- * Return: nothing 
+ * Return: nothing
  */
 void asanif_add(stack_t **head, unsigned int counter)
 {
